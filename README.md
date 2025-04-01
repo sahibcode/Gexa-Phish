@@ -112,23 +112,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions, issues, and feature requests are welcome! Please feel free to fork the repository and submit pull requests.
 
----
+Example output image of report , though CLI output of the analysis is more detailed
+![phishing_report_goo0gle com_20250401-135335](https://github.com/user-attachments/assets/824eb4af-9f0c-46c6-8b5b-276a5d6ef31d)
 
-
-Key changes for GitHub README:
-
-Markdown Formatting: Uses #, ##, ### for headings, * for bullet points, bash ... for code blocks, `code` for inline code/commands/filenames.
-
-Structure: Organized logically with clear sections like Overview, Features, Installation, Usage, etc.
-
-Conciseness: Summarized longer explanations from the report while retaining key information.
-
-Emphasis: Used bold (**) for key terms and features.
-
-Badges: Added an optional MIT license badge (you can choose a different license or remove it).
-
-Clarity for Users: Installation and Usage steps are clear and actionable.
-
-Visual Report Highlight: Explicitly mentions the JPG report generation and includes a placeholder comment for potentially embedding an example image.
-
-Standard Sections: Included common README sections like License and optional Contributing guidelines.
