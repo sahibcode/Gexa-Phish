@@ -65,7 +65,7 @@ The script performs the following steps:
 
 1.  **Clone the repository (or download the script):**
     ```bash
-    git clone (https://github.com/sahibcode/Gexa-Phish.git)
+    git clone https://github.com/sahibcode/Gexa-Phish.git
     cd Gexa-Phish
     ```
 2.  **Install required Python libraries:**
