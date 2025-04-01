@@ -86,8 +86,8 @@ The script performs the following steps:
 4.  The analysis results will be printed to the console.
 5.  A visual report summarizing the findings will be saved as a JPG image (e.g., `phishing_report_example.com_YYYYMMDD-HHMMSS.jpg`) in the same directory.
 
-    **(Example of a generated report - Consider adding a screenshot here!)**
-    <!-- ![Example Report](path/to/example_report.jpg) -->
+    **(Example of a generated report )**
+![phishing_report_goo0gle com_20250401-135335](https://github.com/user-attachments/assets/824eb4af-9f0c-46c6-8b5b-276a5d6ef31d)
 
 ## ⚠️ Limitations & Disclaimer
 
@@ -112,6 +112,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions, issues, and feature requests are welcome! Please feel free to fork the repository and submit pull requests.
 
-Example output image of report , though CLI output of the analysis is more detailed
-![phishing_report_goo0gle com_20250401-135335](https://github.com/user-attachments/assets/824eb4af-9f0c-46c6-8b5b-276a5d6ef31d)
+Note: CLI output gives more details than the generated report image 
+
 
