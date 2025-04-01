@@ -79,9 +79,9 @@ The script performs the following steps:
 1.  Navigate to the script's directory in your terminal.
 2.  Run the script using Python:
     ```bash
-    python phishing_analyzer.py
+    python panalyzer.py
     ```
-    *(Replace `phishing_analyzer.py` with the actual script filename if you renamed it.)*
+
 3.  When prompted, enter the full URL you want to analyze and press Enter.
 4.  The analysis results will be printed to the console.
 5.  A visual report summarizing the findings will be saved as a JPG image (e.g., `phishing_report_example.com_YYYYMMDD-HHMMSS.jpg`) in the same directory.
